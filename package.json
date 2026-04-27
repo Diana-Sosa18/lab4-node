@@ -1,0 +1,14 @@
+{
+  "name": "laboratorio4-api",
+  "version": "1.0.0",
+  "description": "API REST de videojuegos - Laboratorio 4",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
